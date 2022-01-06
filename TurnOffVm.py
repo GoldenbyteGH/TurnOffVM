@@ -2,7 +2,7 @@
 """
 Script to turn OFF a specific VM  in ESXI
 
-E.g.  main.py GNS3
+e.g.  TurnOffVm.py GNS3
 
 """
 
